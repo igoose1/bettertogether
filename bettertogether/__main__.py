@@ -2,7 +2,6 @@
 
 import concurrent.futures
 import logging
-from typing import overload
 
 import click
 from selenium import webdriver
