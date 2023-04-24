@@ -1,4 +1,4 @@
-# See LICENSE file.
+# See LICENSE file in the root of the project. TL;DR it must be CC0.
 
 import concurrent.futures
 import logging
